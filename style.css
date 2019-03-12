@@ -1,0 +1,49 @@
+body {
+		background-color: LightCoral;
+		background-size: cover;
+		font-size: 15px;
+		margin: 10px;
+}
+
+nav#tabs {
+		background-color: LightCoral;
+		text-align:center;
+		font-family: "Shadows Into Light", cursive;
+		font-size: 20px;
+}
+
+nav#tabs ul{
+		list-style: none;
+		padding:0;
+		overflow: hidden;
+}
+
+nav#tabs ul li{
+		float: left;
+		margin-left:220px;
+		display:inline;
+}
+
+nav#tabs ul li a {
+		display: inline-block;
+		padding: 20px;
+		color: maroon;
+		text-decoration:none;
+		background-color: LightCoral;
+		color: white;
+		font-weight: bold;
+		text-decoration: none;
+		text-align:center;
+}
+
+nav#tabs ul li a:hover{
+		color: maroon;
+}
+
+img{
+		width: 25%;
+		height: 25%; 
+		display: block;
+		margin-right: auto;
+		margin-left: auto;
+}
