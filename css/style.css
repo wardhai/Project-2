@@ -1,14 +1,14 @@
 body {
-		background-color: Silver;
+		background-color: LightSlateGray ;
 		background-size: cover;
 		font-size: 15px;
 		margin: 10px;
+		
 }
-
 nav#tabs {
-		background-color: Silver;
+		background-color: LightSlateGray ;
 		text-align:center;
-		font-family: "Playfair Display", cursive;
+		font-family: "Raleway", sans-serif;
 		font-size: 20px;
 }
 
@@ -20,7 +20,7 @@ nav#tabs ul{
 
 nav#tabs ul li{
 		float: left;
-		margin-left:220px;
+		margin-left:175px;
 		display:inline;
 }
 
@@ -29,7 +29,7 @@ nav#tabs ul li a {
 		padding: 20px;
 		color: maroon;
 		text-decoration:none;
-		background-color: Silver;
+		background-color: LightSlateGray ;
 		color: white;
 		font-weight: bold;
 		text-decoration: none;
@@ -56,17 +56,27 @@ video {
 }
 
 h1 {
-		font-family: "Playfair Display", cursive;
+		font-family: "Raleway", sans-serif;
 		text-align: center;
-		font-weight: bold;
+		color: white;
 }
 
 #titles{
 		font-size:40px;
-		background-color:Silver;
+		background-color:LightSlateGray ;
 }
+
 
 h2, h3 {
 		font-family: "CourierNew", sans-serif;
 }
+#bio{
+		font-size:20px;
+		background-color:LightSlateGray ;
+		color: white;
+		font-family: "Lucida Grande", sans-serif
+		text-align: center;
+	
+}
+		
 
