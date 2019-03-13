@@ -93,7 +93,12 @@ h2, h3 {
 		margin-left: 70px;
 		color: white;
 }
-#text {
+#bullets, #bullets1, #bullets2, #bullets3 {
+		font-family: "Palatino Linotype", sans-serif;
+		margin-left: 70px;
+		color: white;
+}
+#text, #text1, #text2, #text3, #text4, #text5 {
 		color: white;
 }
 #footer{
