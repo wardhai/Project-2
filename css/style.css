@@ -1,14 +1,14 @@
 body {
-		background-color: LightCoral;
+		background-color: Silver;
 		background-size: cover;
 		font-size: 15px;
 		margin: 10px;
 }
 
 nav#tabs {
-		background-color: LightCoral;
+		background-color: Silver;
 		text-align:center;
-		font-family: "Srisakdi", cursive;
+		font-family: "Playfair Display", cursive;
 		font-size: 20px;
 }
 
@@ -29,7 +29,7 @@ nav#tabs ul li a {
 		padding: 20px;
 		color: maroon;
 		text-decoration:none;
-		background-color: LightCoral;
+		background-color: Silver;
 		color: white;
 		font-weight: bold;
 		text-decoration: none;
@@ -56,14 +56,14 @@ video {
 }
 
 h1 {
-		font-family: "Srisakdi", cursive;
+		font-family: "Playfair Display", cursive;
 		text-align: center;
 		font-weight: bold;
 }
 
 #titles{
 		font-size:40px;
-		background-color:LightCoral;
+		background-color:Silver;
 }
 
 h2, h3 {
