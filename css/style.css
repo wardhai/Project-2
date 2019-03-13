@@ -5,11 +5,13 @@ body {
 		margin: 10px;
 		
 }
-nav#tabs {
+nav#tabs, #tabs1{
 		background-color: LightSlateGray ;
 		text-align:center;
 		font-family: "Raleway", sans-serif;
 		font-size: 20px;
+		margin-right: auto;
+		margin-left: auto;
 }
 
 nav#tabs ul{
@@ -21,12 +23,12 @@ nav#tabs ul{
 nav#tabs ul li{
 		float: left;
 		margin-left:175px;
-		display:inline;
+		display:block;
 }
 
-nav#tabs ul li a {
+nav#tabs ul li a, #tabs1{
 		display: inline-block;
-		padding: 20px;
+		padding: 10px;
 		color: maroon;
 		text-decoration:none;
 		background-color: LightSlateGray ;
@@ -34,6 +36,8 @@ nav#tabs ul li a {
 		font-weight: bold;
 		text-decoration: none;
 		text-align:center;
+		margin-right: auto;
+		margin-left: auto;
 }
 
 nav#tabs ul li a:hover{
