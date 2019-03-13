@@ -46,13 +46,18 @@ img{
 		display: block;
 		margin-right: auto;
 		margin-left: auto;
+		border-radius: 2%;
 
 }
 
 video {
 		width: auto;
 		height: 475px;	
-		display:inline;
+		display: block;
+		margin-right: auto;
+		margin-left: auto;
+		border-radius: 3%;
+		
 }
 
 h1 {
@@ -61,7 +66,7 @@ h1 {
 		color: white;
 }
 
-#titles{
+#title{
 		font-size:40px;
 		background-color:LightSlateGray ;
 }
@@ -69,6 +74,7 @@ h1 {
 
 h2, h3 {
 		font-family: "CourierNew", sans-serif;
+		color: white; 
 }
 #bio{
 		font-size:20px;
@@ -78,5 +84,20 @@ h2, h3 {
 		text-align: center;
 	
 }
-		
+#subtext, #bullets {
+		font-family: "Palatino Linotype", sans-serif;
+		margin-left: 70px;
+		color: white;
+}
+#text {
+		color: white;
+}
+#footer{
+	clear: both;
+	background: white;
+	text-align: center;
+    font-family: Helvetica;
+	height: 50px;
+	line-height: 50px;
+}
 
